@@ -1,1 +1,2 @@
 # AI_On_Chip_For_Machine_Learning_And_Inference
+人工智慧晶片設計與應用
